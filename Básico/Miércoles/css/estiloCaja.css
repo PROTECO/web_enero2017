@@ -1,0 +1,49 @@
+/*h1, div, p {
+	background: #ff8000;
+}*/
+
+/*Dejar en claro porqué en cascada*/
+.green{
+	background: green;
+	color:red;
+}
+
+div {
+
+	width: 100px;
+	height: 100px;
+
+
+	background: #ff8000;
+	/*Margen externo: altopx anchopx*/
+	margin: 10px;
+	/*Margen interno*/
+	padding: 30px; /*Enfasis en cuidar el tamaño real de las formas que se tienen*/
+	/*Sumar magin o padding a la altura y anchura deseados*/
+	border: 10px solid #000000;
+
+	/*
+	border-style: solid;
+  	border-width: 2px 10px 4px 20px;
+	*/
+
+	/*Por defecto ya son elementos de bloque*/
+	
+	/*display: inline;*/
+	/*display: inline-block;*/
+	/*display: none;*/
+}
+
+/*Selectores*/
+/*
+h1, p{
+	color:blue;
+}
+*/
+
+
+h1 + p { color: pink }
+
+p a { color: red; }
+p > a { color: green; }
+

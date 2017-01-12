@@ -1,0 +1,33 @@
+div {
+	width: 100px;
+	height: 100px;
+	background: #4A88F4;
+	font-size: 30px;
+	/*float: right; /*Se acomodan una junto a otra*/
+}
+
+
+.caja {
+	background: red;
+	/*position: static;/*Es el posicionamiento por defecto*/
+	/*position: absolute; /*Se modifica desde el inicio de la pantalla*/
+	/*position: fixed; /*No se mueve a pesar del scroll, se ubica desde el inicio de la pantalla*/
+	position: relative; /*Modifica desde su posicion actual*/
+	top: 300px;
+	bottom: 0px;
+	right: 0px;
+	left: 200px;
+}
+
+img{
+	float: right;
+}
+
+
+div:nth-child(11){
+	width: auto;
+	height: auto;
+	background: pink;
+	font-size: 30px;
+}
+
