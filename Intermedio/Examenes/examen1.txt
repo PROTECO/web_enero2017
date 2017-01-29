@@ -1,0 +1,14 @@
+1.-¿Cuál es la estructura de una página web?
+2.-Menciona tres tipos de transformaciones
+3.-¿Cómo se aplica un gradiente en CSS?
+4.-¿Cómo hacemos responsiva una imagen?
+5.-¿En el siguiente código, cuál es el error?
+	.miclase{
+			width:100;
+			height:auto
+	}
+6-.¿Cómo se organizan las carpetas de un proyecto web?
+7.-¿Cómo colocamos una imagen de background?
+8.-¿Qué necesitamos para que Bootstrap funcione bien?
+9.-¿Qué hace "git remote add origin"?
+10.-¿Cómo ocultamos carpetas en Windows?

@@ -1,0 +1,11 @@
+1.-Definir los siguientes:
+	-Plantilla
+	-Framework
+	-Template
+2.-¿Qué es Bootstrap?
+3.-¿Qué es materialize?
+4.-Explique el GRID de materialize
+5.-¿Para qué sirve parallax?
+6-.¿Qué es una CARD?
+7.-¿Para qué sirve JavaScript?
+8.-¿Qué es jQuery?

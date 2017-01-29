@@ -1,0 +1,10 @@
+1.-¿Qué es JavaScript?
+2.-¿Qué hace console.log("hola")?
+3.-¿Cuál es la utilidad del objeto document?
+4.-¿Por qué utilizar ID?
+5.-¿Cómo se hace referencia a un atributo de una clase?
+6.-¿Cómo se hace referencia a un método en una clase?
+7.-¿Para qué sirve el objeto MATH?
+8.-¿Qué es jQuery?
+9.-¿Qué es el SEO?
+10.-¿Para qué sirve innerHTML?

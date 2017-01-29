@@ -1,0 +1,4 @@
+Crear una aplicación en cualquiera de los frameworks de Javascript vistos en el curso:
+
+Se hará una pregunta
+Se respondeta con 5 respuestas aleatorioas

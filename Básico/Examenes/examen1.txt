@@ -1,0 +1,10 @@
+1.-¿Qués es una dirección IP?
+2.-¿Qué es una dirección MAC?
+3.-¿Qué es una red?
+4.-¿Qué es GIT?
+5.-¿Qué es ATOM?
+6-.¿Por qué usamos ATOM?
+7.-¿Cómo se llaman los instructores?
+8.-Explique qué es el área de trabajo de git
+9.-Explique qué es el repositorio git
+10.-¿Con qué comando se puede ver la bitacora en GIT?

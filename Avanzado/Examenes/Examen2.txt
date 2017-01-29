@@ -1,0 +1,10 @@
+1.-¿Para qué sirve jquery.ui?
+2.-¿Qué significa el simbolo $ en jquery ?
+3.-¿En qué esta hecho jquery?
+4.-¿Por qué linkeamos al final los archivos de jquery?
+5.-¿Cómo linkeamos un script de js?
+6.-¿Qué hace el método droppable?
+7.-¿Qué hace el método draggable?
+8.-¿Cómo se llama la herramienta que mostró Donaldo?
+9.-¿Has aprendido lo suficiente para crear un buen diseño?
+10.-¿Crees que es importante JS para diseñar? ¿Por qué?

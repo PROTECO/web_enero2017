@@ -1,0 +1,10 @@
+1.-¿Cómo se inserta un formulario en html?
+2.-Escribe la estructura de una página web
+3.-¿Cómo cambiamos la fuente de una página?
+4.-¿Con qué instrucción aplicamos Scrollbar?
+5.-¿Para qué sirve GIT?
+6-.¿Cómo linkeamos una hoja de estilos?
+7.-¿Cuáles son los pasos para un buen diseño?
+8.-¿Cómo insertamos una imagen?
+9.-¿Para qué sirve "lang"?
+10.-¿Qué es lo que más te ha gustado del curso?

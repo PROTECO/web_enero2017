@@ -1,0 +1,8 @@
+1.-¿Qués es GIT?
+2.-¿Qué es la W3C?
+3.-¿Para qué sirve git init?
+4.-¿Para qué sirve git commit?
+5.-¿Qué es el frontend?
+6-.Últimos estandares de HTML Y CSS:
+7.-¿Cómo se llama el adjunto de este curso?
+8.-¿Para qué sirve Balsamiq?

@@ -1,0 +1,10 @@
+1.-¿Qué es JavaScript?
+2.-¿Qué es un framework?
+3.-¿Qué es el frontend?
+4.-¿Qué es el backend?
+5.-Menciona 3 frameworks de CSS
+6-.En el curso has usado JS
+7.-¿Qué es jQuery?
+8.-¿Cómo se llama el último estandar de JS?
+9.-¿Cómo se llama el auxiliar del curso?
+10.-¿Sabes programar?

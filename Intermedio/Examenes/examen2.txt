@@ -1,0 +1,10 @@
+1.-¿Qués es el GRID de Bootstrap?
+2.-¿Para qué sirve el GRID?
+3.-¿Cómo colocamos un GRID?
+4.-¿Qué tamaños nos ofrece?
+5.-¿Para qué sirve un offset?
+6-.¿Qué pasa si colocamos más de 12 columnas?
+7.-Menciona tres elementos de bootstrap
+8.-¿Cómo ingresamos los elementos?
+9.-¿Cómo linkeamos bootstrap?
+10.-¿Se pueden anidar rejillas?¿Cómo?
